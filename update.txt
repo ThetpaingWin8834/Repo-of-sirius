@@ -1,4 +1,4 @@
 {
 version:1,
-link:null;
+link:"www.google.com";
 }
