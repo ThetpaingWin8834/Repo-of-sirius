@@ -1,4 +1,7 @@
 {
 version:"1",
 link:"https://www.google.com"
+message:"Update အသစ်ရပြီနော် 😘😘\n ပြောင်းလဲသွားတာတွေက\n 1
+______\n ____
+\n 3______"
 }
