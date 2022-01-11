@@ -1,7 +1,7 @@
 {
-   version:1;
-   description:"null";
-   link:"null";
+   version:2;
+   description:"New update is available and \n enjoy with more features <3";
+   link:"www.google.com";
    vpn:1;
 
 }
