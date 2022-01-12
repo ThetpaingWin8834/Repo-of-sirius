@@ -1,7 +1,7 @@
 {
-   version:2;
+   version:1;
    description:"New update is available and \n enjoy with more features <3";
-   link:"www.google.com";
-   vpn:1
+   link:"https://www.dropbox.com/s/94qgh8i8yuv5ga5/SimplePdfReader.apk?dl=0";
+   vpn:0
 
 }
