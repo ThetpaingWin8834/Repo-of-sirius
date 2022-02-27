@@ -1,6 +1,6 @@
 {
    version:1;
-   description:"ဗားရှင်းအသစ်ထွက်ပါပြီ ။ \n videoများစွာလည်းတစ်နေရာထဲကြည့်နိုင်ပါပြီ ။ \n(Note) installတင်မရပါက ဗားရှင်းအဟောင်းကိုဖျက်ပြီးတင်ပါ";
+   description:">ဗားရှင်းအသစ်ထွက်ပါပြီ ။\n>videoများစွာလည်းတစ်နေရာထဲကြည့်နိုင်ပါပြီ ။ \n>(Note) installတင်မရပါက ဗားရှင်းအဟောင်းကိုဖျက်ပြီးတင်ပါ";
    link:"https://www.dropbox.com/s/94qgh8i8yuv5ga5/SimplePdfReader.apk?dl=0";
    vpn:1
 
