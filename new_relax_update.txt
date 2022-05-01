@@ -1,6 +1,6 @@
 {
   "start":false,
-   "update":false,
+   "update": true,
     "has_to_up":false,
      "msg":"msg",
       "link":"link"
