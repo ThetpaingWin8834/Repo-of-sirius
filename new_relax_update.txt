@@ -1,5 +1,5 @@
 {
-  "start":false,
+  "start":true,
    "update": false,
     "has_to_up":false,
      "msg":"msg",
