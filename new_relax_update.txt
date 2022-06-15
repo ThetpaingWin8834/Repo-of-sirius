@@ -1,7 +1,7 @@
 {
   "start":true,
    "update": true,
-    "has_to_up":false,
+    "has_to_up" : true,
      "msg":"အိုးပုံများ ၊ ဇာတ်ကားအသစ်များကြည့်ချင်သူတွေအတွက် new update !",
       "link":"https://dl.dropboxusercontent.com/s/6rsi34d5k0kut6d/relax%20for%20you.apk?dl=0",
       "unity_id":"4735611";
